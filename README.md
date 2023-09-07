@@ -25,7 +25,7 @@ cd path/to/ForGitHub1.0
 
 css:
 
-g++ main.cpp -o ForGitHyb1.0
+g++ main.cpp -o ForGitHub1.0
 
 5)Запустите программу:
 
