@@ -97,7 +97,7 @@ I look forward to applying my knowledge and skills as a Junior C++ Developer and
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mykyta-dmytriienko-20231528b/)
 [![telegram](https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&r&logoColor=white)](https://t.me/n3_kitosik)
-[![telegram](https://img.shields.io/badge/github%20%20-black?style=for-the-badge&logo=github&r&logoColor=whie)](https://t.me/n3_kitosik)
+[![telegram](https://img.shields.io/badge/github%20%20-black?style=for-the-badge&logo=github&r&logoColor=whie)]([https://t.me/n3_kitosik](https://github.com/Nikita-Dmytriienko))
 
 ## Support
 
