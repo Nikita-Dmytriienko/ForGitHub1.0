@@ -53,6 +53,10 @@ MyClass Foo2()
 
 	return temp;
 }
+void Print()
+{
+	std::cout << "I can see this world<3\n";
+}
 
 int main()
 {
